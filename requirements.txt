@@ -113,5 +113,6 @@ xlrd==1.2.0
 XlsxWriter==1.2.8
 zipp==3.1.0
 plotly=4.14.1
-cufflinks-py
+cufflinks
 lime
+imblearn==0.0
